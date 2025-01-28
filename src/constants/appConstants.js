@@ -1,0 +1,4 @@
+export const POWER_BUTTON_SCREEN = "POWER_BUTTON_SCREEN";
+export const BOOTUP_SCREEN = "BOOTUP_SCREEN";
+export const LOGIN_SCREEN = "LOGIN_SCREEN";
+export const HOME_SCREEN = "HOME_SCREEN";
